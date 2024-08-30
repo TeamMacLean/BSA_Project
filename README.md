@@ -1,8 +1,7 @@
 # BSA_Project
 This project performs bioinformatics analyses for Bulk Segregant Analysis (BSA) to identify genetic variants linked to specific phenotypes.
-# BSA_project
-This project performs bioinformatics analyses for Bulk Segregant Analysis (BSA) to identify genetic variants linked to specific phenotypes.  
-The pipeline includes quality control, trimming, alignment, variant calling, and filtering for homozygous SNPs. It aims to identify SNPs associated with resistance to Phytophthora infestans in Solanum species.
+
+The pipeline includes quality control, trimming, alignment, variant calling, and filtering for homozygous SNPs. It aims to identify homozygous SNPs associated with resistance to Phytophthora infestans in Solanum species.
 
 ## Directory Structure
 solanum_americanum/
